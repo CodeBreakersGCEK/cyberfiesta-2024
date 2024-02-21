@@ -8,6 +8,7 @@ export default {
     colors: {
       backColor: '#070F2B',
       white: '#ffffff',
+      black: '#000',
     },
     extend: {},
   },

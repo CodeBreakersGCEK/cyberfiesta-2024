@@ -1,22 +1,29 @@
-import Line from './utils/Line'
+import BigImage from './BigImage'
+import Line from './Line/Line'
 
 const Step4 = () => {
   return (
     <>
-      <Line />
+      <Line number={8} />
       {/* <span className="bit8font">Superman vs Batman</span> */}
       <div className="flex flex-row gap-3">
         <div className="flex flex-col w-[80%] gap-2 items-center">
-          <p className="bit8font">Superman</p>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTuSpR_FwEIFFf0C8vSnQ4kMVW7KO4iNdYgjdUok3Ew&s" />
+          <p className="bit8font">Batman</p>
+          <BigImage
+            src="https://preview.redd.it/super-mario-bros-castle-v0-9ezhq8wjbgwa1.png?width=640&crop=smart&auto=webp&s=f1c2cb6ca8c9ed68f8a1ec948005b9786fbef359"
+            className="w-[100%]"
+          />
           <span className="bit8font-desc">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit.
           </span>
         </div>
         <p className="bit8font pt-16">vs</p>
         <div className="flex flex-col w-[80%] gap-2 items-center">
-          <p className="bit8font">Batman</p>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTuSpR_FwEIFFf0C8vSnQ4kMVW7KO4iNdYgjdUok3Ew&s" />
+          <p className="bit8font">Joker</p>
+          <BigImage
+            src="https://preview.redd.it/super-mario-bros-castle-v0-9ezhq8wjbgwa1.png?width=640&crop=smart&auto=webp&s=f1c2cb6ca8c9ed68f8a1ec948005b9786fbef359"
+            className="w-[100%]"
+          />
           <span className="bit8font-desc">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit.
           </span>

@@ -1,12 +1,16 @@
-import Line from './utils/Line'
+import BigImage from './BigImage'
+import Line from './Line/Line'
 
 const Step3 = () => {
   return (
     <>
-      <Line />
+      <Line number={2} />
       <div className="flex flex-row-reverse gap-3">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTuSpR_FwEIFFf0C8vSnQ4kMVW7KO4iNdYgjdUok3Ew&s" />
-        <div className="flex flex-col gap-2">
+        <BigImage
+          src="https://preview.redd.it/super-mario-bros-castle-v0-9ezhq8wjbgwa1.png?width=640&crop=smart&auto=webp&s=f1c2cb6ca8c9ed68f8a1ec948005b9786fbef359"
+          className="w-40"
+        />
+        <div className="flex flex-col gap-2 w-[49%]">
           <span className="bit8font">8bit Quiz</span>
           <br />
           <span className="bit8font-desc">
