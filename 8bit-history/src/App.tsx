@@ -1,6 +1,4 @@
 // App.js
-import React from 'react';
-
 const App = () => {
   const facts = [
     'The first video game was created in 1958.',
