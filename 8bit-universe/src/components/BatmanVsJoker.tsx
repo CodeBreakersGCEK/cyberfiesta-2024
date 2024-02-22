@@ -14,7 +14,7 @@ const Step4 = () => {
             className="w-[100%]"
           />
           <span className="bit8font-desc">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            Batman is a superhero appearing in American comic books published by DC Comics.
           </span>
         </div>
         <p className="bit8font pt-16">vs</p>
@@ -25,7 +25,7 @@ const Step4 = () => {
             className="w-[100%]"
           />
           <span className="bit8font-desc">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            The Joker is a supervillain created by Bill Finger, Bob Kane, and Jerry Robinson.
           </span>
         </div>
       </div>

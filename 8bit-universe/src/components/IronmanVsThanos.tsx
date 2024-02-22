@@ -11,7 +11,8 @@ const IronmanVsThanos = () => {
           <p className="bit8font">Ironman</p>
           <BigImage src="/images/IronMan.jpg" className="w-[100%]" />
           <span className="bit8font-desc">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            Ironman is a Superhero. He is a billionaire. Be Like
+            him and be rich.
           </span>
         </div>
         <p className="bit8font pt-16">vs</p>
@@ -19,7 +20,8 @@ const IronmanVsThanos = () => {
           <p className="bit8font">Thanos</p>
           <BigImage src="/images/Thanos.jpg" className="w-[100%]" />
           <span className="bit8font-desc">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            Thanos is a supervillain. He is a powerful
+            being.Don't Be Like him but be powerful.
           </span>
         </div>
       </div>

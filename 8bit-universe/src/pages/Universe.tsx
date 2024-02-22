@@ -20,16 +20,16 @@ const Universe = () => {
       <div className="w-[90vw] gap-4 flex flex-col items-center">
         <Header />
         <Welcome />
-        <Sword />
-        <BitQuiz />
-        <GameCaset />
         <Pacman />
         <Snake />
+        <BitQuiz />
+        <Sword />
         <IronmanVsThanos />
+        <GameCaset />
         <Mario />
+        <Frames4 />
         <BatmanVsJoker />
         <Arcade />
-        <Frames4 />
         {/* <RonaldoVsMessi /> */}
         <SelfieCar />
         <Exit />

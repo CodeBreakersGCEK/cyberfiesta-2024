@@ -14,8 +14,7 @@ const Step2 = () => {
           <span className="bit8font">Sword</span>
           <br />
           <span className="bit8font-desc">
-            We are going to have a blast today. Let's start by getting to know
-            each other.
+            It is used to attack mobs and players. It is the most effective weapon, as it can deal a lot of damage.
           </span>
         </div>
       </div>

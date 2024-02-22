@@ -4,7 +4,7 @@ const Step1 = () => {
   return (
     <div className="pt-5 flex flex-col items-center gap-3">
       <BigImage
-        src="/images/"
+        src="/images/Castle.jpg"
         className="max-w-[80vw] w-full h-auto"
       />
       <p className="bit8font-desc">

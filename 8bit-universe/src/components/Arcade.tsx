@@ -14,8 +14,7 @@ const Arcade = () => {
         <div className="flex flex-col gap-2">
           <br />
           <span className="bit8font-desc">
-            We are going to have a blast today. Let's start by getting to know
-            each other.
+            An arcade game or coin-op game is a coin-operated entertainment machine typically installed in public businesses such as restaurants, bars and amusement arcades..
           </span>
         </div>
       </div>
