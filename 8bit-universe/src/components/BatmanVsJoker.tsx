@@ -21,7 +21,7 @@ const Step4 = () => {
         <div className="flex flex-col w-[80%] gap-2 items-center">
           <p className="bit8font">Joker</p>
           <BigImage
-            src="/images/Joker.jpg"
+            src="/images/Joker.jpeg"
             className="w-[100%]"
           />
           <span className="bit8font-desc">

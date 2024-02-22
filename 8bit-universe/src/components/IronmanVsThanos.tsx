@@ -18,7 +18,7 @@ const IronmanVsThanos = () => {
         <p className="bit8font pt-16">vs</p>
         <div className="flex flex-col w-[80%] gap-2 items-center">
           <p className="bit8font">Thanos</p>
-          <BigImage src="/images/Thanos.jpg" className="w-[100%]" />
+          <BigImage src="/images/Thanos.jpeg" className="w-[100%]" />
           <span className="bit8font-desc">
             Thanos is a supervillain. He is a powerful
             being.Don't Be Like him but be powerful.
