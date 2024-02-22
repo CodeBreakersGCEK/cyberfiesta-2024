@@ -6,11 +6,11 @@ import BatmanVsJoker from '../components/BatmanVsJoker'
 import Pacman from '../components/Pacman'
 import GameCaset from '../components/GameCaset'
 import Snake from '../components/Snake'
-import ThorVsJoker from '../components/ThorVsThanos'
+import IronmanVsThanos from '../components/IronmanVsThanos'
 import Mario from '../components/Mario'
 import Arcade from '../components/Arcade'
 import Frames4 from '../components/Frames4'
-import RonaldoVsMessi from '../components/RonaldoVsMessi'
+// import RonaldoVsMessi from '../components/RonaldoVsMessi'
 import SelfieCar from '../components/SelfieCar'
 import Exit from '../components/Exit'
 
@@ -25,12 +25,12 @@ const Universe = () => {
         <GameCaset />
         <Pacman />
         <Snake />
-        <ThorVsJoker />
+        <IronmanVsThanos />
         <Mario />
         <BatmanVsJoker />
         <Arcade />
         <Frames4 />
-        <RonaldoVsMessi />
+        {/* <RonaldoVsMessi /> */}
         <SelfieCar />
         <Exit />
       </div>

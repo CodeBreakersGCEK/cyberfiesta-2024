@@ -7,7 +7,7 @@ const Step2 = () => {
       <Line number={1} />
       <div className="flex gap-3">
         <BigImage
-          src="https://preview.redd.it/super-mario-bros-castle-v0-9ezhq8wjbgwa1.png?width=640&crop=smart&auto=webp&s=f1c2cb6ca8c9ed68f8a1ec948005b9786fbef359"
+          src="/images/Sword.jpg"
           className="w-40"
         />
         <div className="flex flex-col gap-2 w-[49%]">

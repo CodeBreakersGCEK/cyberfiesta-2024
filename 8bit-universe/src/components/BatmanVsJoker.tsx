@@ -10,7 +10,7 @@ const Step4 = () => {
         <div className="flex flex-col w-[80%] gap-2 items-center">
           <p className="bit8font">Batman</p>
           <BigImage
-            src="https://preview.redd.it/super-mario-bros-castle-v0-9ezhq8wjbgwa1.png?width=640&crop=smart&auto=webp&s=f1c2cb6ca8c9ed68f8a1ec948005b9786fbef359"
+            src="/images/Batman.jpg"
             className="w-[100%]"
           />
           <span className="bit8font-desc">
@@ -21,7 +21,7 @@ const Step4 = () => {
         <div className="flex flex-col w-[80%] gap-2 items-center">
           <p className="bit8font">Joker</p>
           <BigImage
-            src="https://preview.redd.it/super-mario-bros-castle-v0-9ezhq8wjbgwa1.png?width=640&crop=smart&auto=webp&s=f1c2cb6ca8c9ed68f8a1ec948005b9786fbef359"
+            src="/images/Joker.jpg"
             className="w-[100%]"
           />
           <span className="bit8font-desc">

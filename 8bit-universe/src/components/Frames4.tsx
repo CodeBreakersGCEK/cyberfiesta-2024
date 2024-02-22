@@ -9,14 +9,14 @@ const Frames4 = () => {
         <div className="flex gap-4 justify-between">
           <div className="flex flex-col items-center gap-2">
             <BigImage
-              src="https://preview.redd.it/super-mario-bros-castle-v0-9ezhq8wjbgwa1.png?width=640&crop=smart&auto=webp&s=f1c2cb6ca8c9ed68f8a1ec948005b9786fbef359"
+              src="/images/Spiderman.jpg"
               className="w-[40vw] h-[40vw]"
             />
             <span className="bit8font text-[0.6rem]">Spiderman</span>
           </div>
           <div className="flex flex-col items-center gap-2">
             <BigImage
-              src="https://preview.redd.it/super-mario-bros-castle-v0-9ezhq8wjbgwa1.png?width=640&crop=smart&auto=webp&s=f1c2cb6ca8c9ed68f8a1ec948005b9786fbef359"
+              src="/images/Batman.jpg"
               className="w-[40vw] h-[40vw]"
             />
             <span className="bit8font text-[0.6rem]">Batman</span>
@@ -25,14 +25,14 @@ const Frames4 = () => {
         <div className="flex gap-4 justify-between">
           <div className="flex flex-col items-center gap-2">
             <BigImage
-              src="https://preview.redd.it/super-mario-bros-castle-v0-9ezhq8wjbgwa1.png?width=640&crop=smart&auto=webp&s=f1c2cb6ca8c9ed68f8a1ec948005b9786fbef359"
+              src="/images/Captain.jpg"
               className="w-[40vw] h-[40vw]"
             />
             <span className="bit8font text-[0.6rem]">Captain America</span>
           </div>
           <div className="flex flex-col items-center gap-2">
             <BigImage
-              src="https://preview.redd.it/super-mario-bros-castle-v0-9ezhq8wjbgwa1.png?width=640&crop=smart&auto=webp&s=f1c2cb6ca8c9ed68f8a1ec948005b9786fbef359"
+              src="/images/Thor.jpg"
               className="w-[40vw] h-[40vw]"
             />
             <span className="bit8font text-[0.6rem]">Thor</span>
